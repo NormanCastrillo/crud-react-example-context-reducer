@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crud-react-example-context-reducer/static/css/main.561dc29f.css",
+    "main.js": "/crud-react-example-context-reducer/static/js/main.ea4740a9.js",
+    "index.html": "/crud-react-example-context-reducer/index.html",
+    "main.561dc29f.css.map": "/crud-react-example-context-reducer/static/css/main.561dc29f.css.map",
+    "main.ea4740a9.js.map": "/crud-react-example-context-reducer/static/js/main.ea4740a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.561dc29f.css",
+    "static/js/main.ea4740a9.js"
+  ]
+}
